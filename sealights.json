@@ -1,0 +1,6 @@
+{
+	"server": "https://dev-niv-gw.sealights.co/api",
+	"interval": 10000,
+	"enabled": true,
+	"customerId": "calc"
+}
