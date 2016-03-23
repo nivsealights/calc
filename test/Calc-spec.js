@@ -13,4 +13,9 @@ describe("Calc-spec", function () {
     	var c = calc.minus(5, 3);
     	done();
     });
+    it("mult", function (done) {
+    	var calc = new Calc();
+    	var c = calc.mult(2, 2);
+    	done();
+    });
 });

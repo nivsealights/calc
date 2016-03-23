@@ -1,0 +1,5 @@
+#.slignore file for SeaLights
+
+node_modules/
+test/
+coverage/
